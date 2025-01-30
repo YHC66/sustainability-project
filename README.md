@@ -68,8 +68,8 @@ The frontend will be available at `http://localhost:4200`
 Update existing action
 - go to /api/actions/<id>/ to do the update
 
-### DELETE /api/actions/<id>/
+### DELETE /api/actions/ <id> /
 Delete specific action
-- go to /api/actions/<id>/ to do the delete
+- go to /api/actions/ <id> / to do the delete
 
 
